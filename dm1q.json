@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1766930192",
-      "filename": "iode-7.1-20251228-dm1q.zip",
-      "id": "fa55aee001dd28005df55cb022991dcf159b9853dc728e7ff602d0c81b766694",
+      "datetime": "1767083634",
+      "filename": "iode-7.1-20251230-dm1q.zip",
+      "id": "fa698db330f4db17a8afbdff9452999db42a0a3fe197464fb42c247c5444dab9",
       "romtype": "UNOFFICIAL",
-      "size": "2003548717",
-      "url": "https://github.com/FSaurenbach/iode-OTA/releases/download/dm1q-20251228/iode-7.1-20251228-dm1q.zip",
+      "size": "2003782376",
+      "url": "https://github.com/FSaurenbach/iode-OTA/releases/download/dm1q-20251230/iode-7.1-20251230-dm1q.zip",
       "version": "7.1.1"
     }
   ]
